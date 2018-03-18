@@ -17,3 +17,7 @@ How does it work?
 Every character gets an own fully connected neural network at the beginning. Each neural network is consists out of 4 input neurons, 8 hidden neurons and 4 output neurons.
 After they die (touched the border), the neural network gets mutated at 70 random weights.<br><br>
 <img src="/images/readme-1.gif" width="300">
+
+Video
+---
+<a href="https://youtu.be/wiBAb6uY2Tc">https://youtu.be/wiBAb6uY2Tc</a>
