@@ -1,9 +1,9 @@
 # AvoidTheLimitsDemo
-A Simple Demo to show how fast neural networks can learn how to play a game
+A Simple Demo to show how fast neural networks can learn how to play a game.
 
 What's the goal?
 ---
-The goal is to not touch the border<br><br>
+The goal is to not touch the border.<br><br>
 <img src="/images/readme-2.gif" width="300">
 
 What are the restrictions?
