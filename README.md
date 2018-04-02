@@ -1,5 +1,5 @@
 # AvoidTheLimitsDemo
-A Simple Demo to show how fast neural networks can learn how to play a game.
+A simple Demo to show how fast neural networks can learn how to play a game.
 
 What's the goal?
 ---
